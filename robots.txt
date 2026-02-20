@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cfaadigest.pages.dev/sitemap.xml

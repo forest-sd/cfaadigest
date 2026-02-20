@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>404 Not Found</title>
+    
+    
+    <link rel="stylesheet" href="https://cfaadigest.com/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+    
+    
+    <style>
+        .not-found {
+            padding: 6rem 1rem;
+            text-align: center;
+            min-height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .not-found__title {
+            font-size: 4rem;
+            color: var(--color-primary, #e22d30);
+            margin-bottom: 2rem;
+        }
+
+        .not-found__text {
+            font-size: 1.25rem;
+            color: var(--color-text-secondary, #666);
+            margin-bottom: 1rem;
+        }
+
+        .not-found__help {
+            color: var(--color-text-secondary, #666);
+            margin-bottom: 2rem;
+        }
+
+        .not-found__links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1rem;
+        }
+
+        .not-found__links .button {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: var(--color-primary, #e22d30);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 3px;
+            transition: background 0.3s;
+        }
+
+        .not-found__links .button:hover {
+            background: var(--color-primary-dark, #c41c1f);
+        }
+    </style>
+</head>
+<body>
+    <div class="container container--outer">
+        <main class="main full-width" role="main">
+            <div class="not-found">
+                <h1 class="not-found__title"><i class="fas fa-exclamation-triangle"></i> 404</h1>
+                <p class="not-found__text">Sorry, the page you requested does not exist</p>
+                <p class="not-found__help">Here are some helpful links instead:</p>
+                <div class="not-found__links">
+                    <a href="https://cfaadigest.com/" class="button">
+                        <i class="fas fa-home"></i> Home
+                    </a>
+                    
+                    
+                        
+                            <a href="https://cfaadigest.com/posts/the-inspiring-journey-of-jesse-k-sanchez-a-trailblazer-in-personal-development/" class="button">
+                                <i class="fas fa-link"></i> The Inspiring Journey of Jesse K Sanchez: A Trailblazer in Personal Development
+                            </a>
+                        
+                    
+                        
+                            <a href="https://cfaadigest.com/posts/framework-how-the-nist-cybersecurity-framework-shapes-legal-strategy/" class="button">
+                                <i class="fas fa-link"></i> Framework: How the NIST Cybersecurity Framework Shapes Legal Strategy
+                            </a>
+                        
+                    
+                        
+                            <a href="https://cfaadigest.com/posts/regulation-navigating-cybersecurity-compliance-with-expert-analysis/" class="button">
+                                <i class="fas fa-link"></i> Regulation: Navigating Cybersecurity Compliance with Expert Analysis
+                            </a>
+                        
+                    
+                        
+                            <a href="https://cfaadigest.com/posts/cfaa-key-legal-insights-every-cybersecurity-lawyer-must-know/" class="button">
+                                <i class="fas fa-link"></i> CFAA: Key Legal Insights Every Cybersecurity Lawyer Must Know
+                            </a>
+                        
+                    
+                        
+                            <a href="https://cfaadigest.com/posts/understanding-bright-bail-bonds-your-guide-to-legal-help/" class="button">
+                                <i class="fas fa-link"></i> Understanding Bright Bail Bonds: Your Guide to Legal Help
+                            </a>
+                        
+                    
+                </div>
+            </div>
+        </main>
+    </div>
+
+    
+    <script async defer src="https://cfaadigest.com/js/menu.js"></script>
+</body>
+</html>
