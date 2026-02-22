@@ -1,0 +1,7 @@
+/* TEAM */
+Site: CFAA Digest: Your Go-To Source for Cybersecurity Law Updates
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Cloudflare Pages
+Software: Static HTML/CSS
